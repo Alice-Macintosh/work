@@ -101,6 +101,8 @@ int main(void){
     map[14][3].calc=1;
     map[14][5].calc=0;
     map[14][7].calc=2;
+
+    //num入力
     
 
 
